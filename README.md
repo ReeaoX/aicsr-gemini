@@ -1,3 +1,5 @@
+![aicSR logo](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5f7b4968-1a5d-413e-886e-a88859a13026/dig05or-3bb6d41a-be7f-4ee5-a4b3-3e8e7d70cf9d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzVmN2I0OTY4LTFhNWQtNDEzZS04ODZlLWE4ODg1OWExMzAyNlwvZGlnMDVvci0zYmI2ZDQxYS1iZTdmLTRlZTUtYTRiMy0zZThlN2Q3MGNmOWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Uxw-ENHWFanmPdywMJv-AMTKNoFxoHULI6RF3yVvTxo)
+
 # Apple Intelligence Chatbot
 
 This is a proof-of-concept that it is possible to:
