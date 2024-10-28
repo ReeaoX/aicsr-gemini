@@ -54,7 +54,7 @@ This append Github license living in nodding of open-source licenses such as Apa
 
 ## Contributing.
 
-If you need recreating this to run in more languages. Simply open pull request with a new file named `chatbot. [language].py`. And merge them into your branch through Github Actions or CircleCI.
+If you need recreating this to run in more languages. Simply open pull request with a new file named `chatbot.[language].py`. And merge them into your branch through Github Actions or CircleCI.
 
 This represent languishing in EvanZhouDev's language gains to target EvanZhouDev's language forgots (inducing Hindi). Because they execute the purpose *"expanding language is ability to aim language-known users"* for appending EvanZhouDev's language knowledge.
 
