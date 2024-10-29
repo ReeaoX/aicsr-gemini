@@ -11,7 +11,7 @@ This is a forked proot-of-concept that it is have proper ability to:
 4. Append echo into "py"-formatted file (Python) through "sh" module or "py-echo" module(?).
 5. Apply Google Gemini API into "py"-formatted (Python) to properly aim into Google Gemini fans.
 
-Combining these five (forgot requiring Linux or FreeBSD into "py"-formatted file cause the usable, you can run them in your OS such as OpenBSD, Haiku, Solaris, etc). The aicSR (stand for *A*pple *I*ntelligence *C*omputing *S*kinning *A*ndroid) is the experimental forked of EvanZhouDev's Apple Intelligence chatbot that append UK resident acquiring Android phone from ordering iPhone. This project bought these alternating of EvanZhouDev's Apple Intelligence chatbot:
+Combining these five (forgot requiring Linux or FreeBSD into "py"-formatted file cause the usable, you can run them in your OS such as OpenBSD, Haiku, Solaris, etc). The aicSR (stand for *A*pple *I*ntelligence *C*omputing *S*kinning *R*esident) is the experimental forked of EvanZhouDev's Apple Intelligence chatbot that append UK resident acquiring Android phone from ordering iPhone. This project bought these alternating of EvanZhouDev's Apple Intelligence chatbot:
 1. Google Gemini (Apple Intelligence).
 2. ChatGPT (EvanZhouDev's typewriter needs).
 3. Dotenv (EvanZhouDev's API define needs).
